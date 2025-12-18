@@ -20,9 +20,9 @@ body:
   - type: checkboxes
     id: backport-requirements
     attributes:
-      label: Does the fix for this issue need a backport to previous tracks? If so, mention the tracks in the description.
+      label: Does the fix for this issue need a backport to previous tracks?
       options:
-        - label: 'Yes'
+        - label: 'Yes, and the required tracks are mentioned in the "Bug Description"'
           required: false
   - type: textarea
     id: reproduction
