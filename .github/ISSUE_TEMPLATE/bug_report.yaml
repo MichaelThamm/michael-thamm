@@ -18,7 +18,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: backport-requirements
+    id: backport-requirements-1
     attributes:
       label: Does the fix for this issue need a backport to previous tracks?
       options:
@@ -26,6 +26,15 @@ body:
         - 'No'
     validations:
       required: true
+  - type: checkboxes
+    id: backport-requirements-2
+    attributes:
+      label: Does the fix for this issue need a backport to previous tracks?
+      options:
+        - label: 'Yes, and the required tracks are mentioned in the "Bug Description"'
+          required: false
+        - label: 'No'
+          required: false
   - type: textarea
     id: reproduction
     attributes:
