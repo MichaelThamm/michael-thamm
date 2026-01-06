@@ -26,6 +26,6 @@ TL;DR, I transitioned from Electrical Engineering to Computer Engineering via my
 [![My Clouds](https://skillicons.dev/icons?i=grafana,prometheus,aws,azure,heroku,cloudflare,openstack,postgresql,mysql,nginx,redis&theme=light)](https://skillicons.dev)
 
 ## Socials
-<a href="https://www.linkedin.com/in/michael-thamm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/michael-thamm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 <a href="http://www.github.com/MichaelThamm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelThamm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
