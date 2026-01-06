@@ -28,4 +28,4 @@ TL;DR, I transitioned from Electrical Engineering to Computer Engineering via my
 ## Socials
 <a href="https://www.linkedin.com/in/michael-thamm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MichaelThamm)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelthamm)](https://github.com/anuraghazra/github-readme-stats)
